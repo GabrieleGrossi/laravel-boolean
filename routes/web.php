@@ -16,4 +16,4 @@ use App\Http\Controllers\Guest\HomeController as GuestHomeController;
 |
 */
 
-// prova per vedere se funziona tutto correttamente
+return ('exemple');
