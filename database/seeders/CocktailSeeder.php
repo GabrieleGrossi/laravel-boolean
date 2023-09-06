@@ -47,7 +47,7 @@ class CocktailSeeder extends Seeder
                 "alcoholic" => "Alcoholic",
                 "instructions" => "The simplicity of the Negroni cocktail is disarming: 1/3 of gin, 1/3 of bitter, and 1/3 of sweet vermouth.",
                 "ingredients" => "Gin-Bitter-Sweet Vermouth",
-                "image" => "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thespruceeats.com%2Fnegroni-cocktail-recipe-759327&psig=AOvVaw3kHlXFxp-xcEJItI-CDx4x&ust=1693929335230000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJiZ7NSokYEDFQAAAAAdAAAAABAE",
+                "image" => "https://www.thecocktaildb.com/images/media/drink/qgdu971561574065.jpg",
             ],
         ];
 
