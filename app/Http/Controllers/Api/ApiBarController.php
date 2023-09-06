@@ -11,10 +11,10 @@ class ApiBarController extends Controller
     public function index(Request $request){
 
         if ($request->has('search')){
-            $cocktail = Cocktail::where('name', 'LIKE', '%' . $request->search . '%')->paginate(5);
+            $cocktail = Cocktail::where('name', 'LIKE', '%' . $request->search . '%')->paginate(20);
         }
          else{
-            $cocktail=Cocktail::paginate(5);
+            $cocktail=Cocktail::paginate(20);
         }
 
 
