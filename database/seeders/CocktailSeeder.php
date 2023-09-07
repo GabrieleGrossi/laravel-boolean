@@ -89,7 +89,7 @@ class CocktailSeeder extends Seeder
                 "alcoholic" => "Alcoholic",
                 "instructions" => "Pour 2 oz of vodka, 1 oz of coffee liqueur, and 1 oz of cream into an old-fashioned glass filled with ice. Stir gently and serve.",
                 "ingredients" => "Vodka-Coffee Liqueur-Cream",
-                "image" => "https://www.thecocktaildb.com/images/media/drink/vsrupw1472405734.jpg",
+                "image" => "https://www.thespruceeats.com/thmb/4-cl74JRvv_E16iFHJTpwTG7zlA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/white-russian-recipe-761274-Hero_02-e1b64f0eac1f4b94b9dbe94fc66d83a8.jpg",
             ],
             [
                 "name" => "Cosmopolitan",
@@ -110,7 +110,7 @@ class CocktailSeeder extends Seeder
                 "alcoholic" => "Alcoholic",
                 "instructions" => "In a shaker, combine 2 oz of gin, 1 oz of lemon juice, 1/2 oz of simple syrup, and ice. Strain into a tall glass filled with ice and top with club soda. Garnish with a lemon slice and a cherry.",
                 "ingredients" => "Gin-Lemon Juice-Simple Syrup-Club Soda",
-                "image" => "https://www.thecocktaildb.com/images/media/drink/86je9k1504368946.jpg",
+                "image" => "https://www.foodandwine.com/thmb/FQpExQKVkFu_CeDh7OuPpED7mK4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Tom-Collins-FT-RECIPE0922-2000-c9c8b25aba1d4bf89fd8030ee114b67b.jpg",
             ],
             [
                 "name" => "Screwdriver",
@@ -131,7 +131,7 @@ class CocktailSeeder extends Seeder
                 "alcoholic" => "Alcoholic",
                 "instructions" => "In a shaker, combine 2 oz of light rum, 1 oz of lime juice, 1/2 oz of orange liqueur, 1/2 oz of orgeat syrup, and ice. Shake well and strain into a glass filled with crushed ice. Garnish with a mint sprig and a cherry.",
                 "ingredients" => "Light Rum-Lime Juice-Orange Liqueur-Orgeat Syrup-Mint Sprig-Cherry",
-                "image" => "https://www.thecocktaildb.com/images/media/drink/2hwca91620187541.jpg",
+                "image" => "https://www.foodandwine.com/thmb/12UDMRbfmdAzBt9XJcCa-R2qqQ4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Mai-Tai-Cocktail-FT-BLOG1122-43e6748207e04826b57b8654cedb6bd8.jpg",
             ],
         ];
 
